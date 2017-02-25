@@ -1,1 +1,117 @@
-﻿body,div,td,ol{margin:0;padding:0;color:#000;font-family:verdana,Arial,Helvetica,sans-serif;line-height:150%}body{width:100%;min-width:980px;font-size:14px}.clear{clear:both}a:link,a:visited,a:hover,a:active{color:#12c;text-decoration:underline}.top{color:#5b5b5b;font-size:12px}.top_tabs{float:left;margin:5px auto auto 10px}#span_userinfo{padding:5px 5px 0 5px;overflow:hidden;text-align:right;margin:0 10px auto auto}#span_userinfo a{padding:0 4px}.index_sozone{width:500px;border:solid 0 red;text-align:left;padding-left:30px}.index_tab{font-size:14px;margin:0 70px 4px 5px;border:solid 0}.index_tab a{margin-right:20px}a.tab_selected{font-weight:bold;text-decoration:none;color:#000}.input_index{height:20px;font-size:14px;border:1px solid #7e9db9;margin-right:8px;padding:2px;vertical-align:middle;width:350px}.index_tab a{margin-right:15px}.new:after{content:"●";position:relative;top:-9px;left:0;text-decoration:none;display:inline-block;color:#d01717;font-size:100%}.index_btn{float:right;margin-left:5px;width:120px}.btn_so_index{border:1px solid #aaa;background-color:#eee;font-size:13px;height:26px;vertical-align:middle;width:80px}.help_link{font-size:12px;line-height:150%}
+﻿body,
+div,
+td,
+ol {
+    margin: 0;
+    padding: 0;
+    color: #000;
+    font-family: verdana, Arial, Helvetica, sans-serif;
+    line-height: 150%
+}
+
+body {
+    width: 100%;
+    min-width: 980px;
+    font-size: 14px
+}
+
+.clear {
+    clear: both
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+    color: #12c;
+    text-decoration: underline
+}
+
+.top {
+    color: #5b5b5b;
+    font-size: 12px
+}
+
+.top_tabs {
+    float: left;
+    margin: 5px auto auto 10px
+}
+
+#span_userinfo {
+    padding: 5px 5px 0 5px;
+    overflow: hidden;
+    text-align: right;
+    margin: 0 10px auto auto
+}
+
+#span_userinfo a {
+    padding: 0 4px
+}
+
+.index_sozone {
+    width: 500px;
+    border: solid 0 red;
+    text-align: left;
+    padding-left: 30px
+}
+
+.index_tab {
+    font-size: 14px;
+    margin: 0 70px 4px 5px;
+    border: solid 0
+}
+
+.index_tab a {
+    margin-right: 20px
+}
+
+a.tab_selected {
+    font-weight: bold;
+    text-decoration: none;
+    color: #000
+}
+
+.input_index {
+    height: 20px;
+    font-size: 14px;
+    border: 1px solid #7e9db9;
+    margin-right: 8px;
+    padding: 2px;
+    vertical-align: middle;
+    width: 350px
+}
+
+.index_tab a {
+    margin-right: 15px
+}
+
+.new:after {
+    content: "●";
+    position: relative;
+    top: -9px;
+    left: 0;
+    text-decoration: none;
+    display: inline-block;
+    color: #d01717;
+    font-size: 100%
+}
+
+.index_btn {
+    float: right;
+    margin-left: 5px;
+    width: 120px
+}
+
+.btn_so_index {
+    border: 1px solid #aaa;
+    background-color: #eee;
+    font-size: 13px;
+    height: 26px;
+    vertical-align: middle;
+    width: 80px
+}
+
+.help_link {
+    font-size: 12px;
+    line-height: 150%
+}
